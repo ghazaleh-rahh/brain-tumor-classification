@@ -1,0 +1,1 @@
+Brain tumor classification from MRI images using the Kaggle Brain Tumor MRI Dataset (7,000+ images, 4 classes: glioma, meningioma, no tumor, pituitary). Preprocessing with PIL, feature extraction via flattening, classified with Random Forest. Accuracy: ~85%. Libraries: scikit-learn, PIL, matplotlib, numpy.
